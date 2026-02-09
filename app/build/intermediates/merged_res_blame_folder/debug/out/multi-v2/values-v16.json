@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.helloworld.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "outputFile": "/Users/magalu/.gradle/daemon/8.2.1/com.example.helloworld.app-mergeDebugResources-26:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/magalu/.gradle/caches/9.3.1/transforms/c3c4a9d44c3a0a1ee396d3da80d35559/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/028ab70e4faf0613d08f284c676e4438/transformed/core-1.10.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/8a9e4451239df27d10915c1819bd85b2/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,15 +31,39 @@
                         "endColumns": "12",
                         "endOffsets": "289"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.helloworld.app-mergeDebugResources-26:/values-v16/values-v16.xml",
+            "map": [
                 {
-                    "source": "/Users/magalu/.gradle/caches/9.3.1/transforms/fe2de7e08abb2c45df8902761080c67c/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/028ab70e4faf0613d08f284c676e4438/transformed/core-1.10.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/8a9e4451239df27d10915c1819bd85b2/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]

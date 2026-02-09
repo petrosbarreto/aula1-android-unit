@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.helloworld.app-mergeDebugResources-29:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.example.helloworld.app-mergeDebugResources-26:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/magalu/.gradle/caches/9.3.1/transforms/4da51937d1f7f50b5d3ac081e40728e2/transformed/material-1.10.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/10a2e5cdf2dd308dcdd5e3468f507e73/transformed/material-1.9.0/res/values-small-v4/values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/magalu/.gradle/daemon/8.2.1/com.example.helloworld.app-mergeDebugResources-26:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/10a2e5cdf2dd308dcdd5e3468f507e73/transformed/material-1.9.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

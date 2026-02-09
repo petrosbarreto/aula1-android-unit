@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.helloworld.app-mergeDebugResources-29:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "com.example.helloworld.app-mergeDebugResources-26:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/magalu/.gradle/caches/9.3.1/transforms/4da51937d1f7f50b5d3ac081e40728e2/transformed/material-1.10.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/10a2e5cdf2dd308dcdd5e3468f507e73/transformed/material-1.9.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,170,226,293,358,413,478,547",
+                        "endColumns": "58,55,55,66,64,54,64,68,68",
+                        "endOffsets": "109,165,221,288,353,408,473,542,611"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/magalu/.gradle/daemon/8.2.1/com.example.helloworld.app-mergeDebugResources-26:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/magalu/.gradle/caches/transforms-3/10a2e5cdf2dd308dcdd5e3468f507e73/transformed/material-1.9.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
